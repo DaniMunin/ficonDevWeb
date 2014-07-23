@@ -37,4 +37,6 @@ These are examples of how the web looks like:
 
 ![Main Page] (doc/MainPage.png)
 
+![Admin Site] (doc/AdminExample)
+
 
