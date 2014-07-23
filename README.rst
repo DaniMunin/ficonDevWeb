@@ -12,14 +12,13 @@ In order to execute the application you need the following software and librarie
 
 You can install pip with: ::
 
-    sudo apt-get install python-pip
+    easy-install python-pip
 
 Once you have pip you can install Pymongo and Flask by executing the next command in doc folder: ::
     
-    sudo pip install -r requirements.txt 
+   pip install -r requirements.txt 
 
-
-You can initiate the DB with some test data by executing the script in sql folder.
+Once you have that and MongoDB, you can initiate the DB with some test data by executing the script in sql folder.
 
 To run the server just execute the next command in src folder: ::
 
