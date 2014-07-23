@@ -35,6 +35,6 @@ Note that food and menu description and images are not real. They are just mocks
 
 These are examples of how the web looks like:
 
-![alt tag] (https://raw.githubusercontent.com/DaniMunin/ficonDevWeb/master/doc/MainPage.png)
+![Main Page](https://raw.githubusercontent.com/DaniMunin/ficonDevWeb/master/doc/MainPage.png)
 
 
