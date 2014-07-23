@@ -12,7 +12,7 @@ In order to execute the application you need the following software and librarie
 
 You can install pip with: ::
 
-    easy-install python-pip
+    easy_install python-pip
 
 Once you have pip you can install Pymongo and Flask by executing the next command in doc folder: ::
     
