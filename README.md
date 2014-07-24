@@ -1,6 +1,3 @@
-Screen Shots
--------------
-
 ![Main Page] (doc/MainPage.png)
 
 
