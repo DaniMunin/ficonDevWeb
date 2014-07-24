@@ -1,7 +1,7 @@
-![Main Page] (doc/MainPage.png)
+![Main Page] (doc/MainPage.jpg)
 
 
-![Admin Site] (doc/AdminExample)
+![Admin Site] (doc/AdminExample.jpg)
 
 Installation
 ------------
