@@ -1,3 +1,11 @@
+Screen Shots
+-------------
+
+![Main Page] (doc/MainPage.png)
+
+
+![Admin Site] (doc/AdminExample)
+
 Installation
 ------------
 
@@ -33,10 +41,5 @@ You have the Admin site in localhost:9001/admin.html and the main site in localh
 
 Note that food and menu description and images are not real. They are just mocks to see how the web page would look.
 
-These are examples of how the web looks like:
-
-![Main Page] (doc/MainPage.png)
-
-![Admin Site] (doc/AdminExample)
 
 
