@@ -35,9 +35,7 @@ And you're ready to go.
 
 The application runs in port 9001.
 
-You have the Admin site in localhost:9001/admin.html and the main site in localhost:9001/index.html
-
-Note that food and menu description and images are not real. They are just mocks to see how the web page would look.
+The Admin site in localhost:9001/admin.html and the main site in localhost:9001/index.html
 
 
 
